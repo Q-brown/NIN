@@ -1,0 +1,73 @@
+#NIN{
+    background-color: burlywood;
+    /* border-radius: 15px; */
+    padding: 40px;
+color: aliceblue;
+font-size: 20px;
+}
+#NIN-btu{
+    color:black;
+    font-style: italic;
+}
+#img img{
+width: 100px;
+height: 100px;
+border-radius: 40px;
+}
+#queen{
+    color:rgb(31, 18, 2);
+}
+#mert{
+    color: black;
+    font-size: 20px;
+}
+#form{
+    /* background-color: aliceblue; */
+    background-color: rgb(90, 59, 20);
+
+}
+#note{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: rgb(67, 41, 41);
+    border-radius: 18pc;
+}
+#note img{
+    width: 200px;
+    height: 200px;
+border-radius: 17px;
+
+}
+#note p{
+    color: burlywood;
+    font-size: 40px;
+}
+#dou{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-right: 2000px;
+}
+form input{
+    font-size: 19px;
+    background-color: wheat;
+}
+#btu{
+    background-color:rgb(137, 96, 42);
+}
+form label{
+    font-size: 20px;
+    color:red;
+}
+form input:hover{
+    color: white;
+}
+.ten input{
+background-color:red;
+font-size: 18px;
+
+}
+#hen{
+/* display: ; */
+margin-left: 50%;
+margin-bottom: 100px;
+}
